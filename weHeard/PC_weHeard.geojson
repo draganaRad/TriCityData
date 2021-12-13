@@ -38,6 +38,44 @@
           49.247329
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "PC_3",
+      "properties": {
+        "key": "PC",
+        "city": "Port Coquitlam",
+        "type": "Problem",
+        "location": "Gates Park",
+        "description": "It should be monitory that all bicycles adult or child should have some sort of bell on the front of the bicycle to let people know that someone is coming up from the back.",
+        "date":"2021-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.791421,
+          49.259188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PC_4",
+      "properties": {
+        "key": "PC",
+        "city": "Port Coquitlam",
+        "type": "Problem",
+        "location": "Lions Park",
+        "description": "It should be monitory that all bicycles adult or child should have some sort of bell on the front of the bicycle to let people know that someone is coming up from the back.",
+        "date":"2021-11-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.779912,
+          49.266960
+        ]
+      }
     }
   ]
 }
