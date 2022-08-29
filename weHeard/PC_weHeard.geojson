@@ -76,6 +76,25 @@
           49.266960
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "PC_5",
+      "properties": {
+        "key": "PC",
+        "city": "Port Coquitlam",
+        "type": "Like",
+        "location": "2244 Welcher Ave, Port Coquitlam",
+        "description": "Donald Street Greenway does not get enough praise. Great reuse of existing surplus road space! More network connections needed though both at south end next to elementary school and north end into downtown.",
+        "date":"2021-09-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.780539,
+          49.257573
+        ]
+      }
     }
   ]
 }
