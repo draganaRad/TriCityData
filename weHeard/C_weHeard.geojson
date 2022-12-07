@@ -60,6 +60,26 @@
           49.276522
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "C_4",
+      "properties": {
+        "key": "C",
+        "city": "Coquitlam",
+        "type": "Suggestion",
+        "location": "Coquitlam, Trevor Wingrove Way and Pinetree Way along the MUP heading south",
+        "description": "The traffic signal support exactly lines up with the curb drop. This makes riding a bicycle tricky and also wheelchair access very difficult I would think.",
+        "photo": "1.png",
+        "date":"2022-11-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.789558,
+          49.290849
+        ]
+      }
     }
   ]
 }
